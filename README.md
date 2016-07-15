@@ -8,4 +8,4 @@ FatMan Boo is one of this.
 The game is based on Cocos2D and LevelSVG, which are both outdated. So to make them running again, it needs some
 work. Feel free to use code in every way you want. 
 
-Art is just allowed for own. Distribution and use in AppStore and GooglePlay not allowed.
+Art is just allowed for own usage. Distribution and use in AppStore and GooglePlay not allowed.
