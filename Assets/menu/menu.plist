@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>big-stone.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{632, 2}, {293, 167}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{293, 167}</string>
+			<key>sourceSize</key>
+			<string>{293, 167}</string>
+		</dict>
+		<key>bubble-left.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{275, 214}, {322, 94}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{322, 94}</string>
+			<key>sourceSize</key>
+			<string>{322, 94}</string>
+		</dict>
+		<key>bubble-right.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2, 214}, {127, 124}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{127, 124}</string>
+			<key>sourceSize</key>
+			<string>{127, 124}</string>
+		</dict>
+		<key>bush-bot-left.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{131, 214}, {142, 114}}</string>
+			<key>offset</key>
+			<string>{0, -7}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{142, 128}</string>
+			<key>sourceSize</key>
+			<string>{142, 128}</string>
+		</dict>
+		<key>bush-top-left.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{927, 2}, {79, 83}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{79, 83}</string>
+			<key>sourceSize</key>
+			<string>{79, 83}</string>
+		</dict>
+		<key>bush-top-right.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{927, 87}, {78, 83}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{78, 83}</string>
+			<key>sourceSize</key>
+			<string>{78, 83}</string>
+		</dict>
+		<key>fatman-logo.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{599, 214}, {188, 84}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{188, 84}</string>
+			<key>sourceSize</key>
+			<string>{188, 84}</string>
+		</dict>
+		<key>slimy-menu-1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{380, 2}, {124, 210}}</string>
+			<key>offset</key>
+			<string>{84, -1}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{300, 300}</string>
+			<key>sourceSize</key>
+			<string>{300, 300}</string>
+		</dict>
+		<key>slimy-menu-2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{506, 2}, {124, 210}}</string>
+			<key>offset</key>
+			<string>{84, -1}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{300, 300}</string>
+			<key>sourceSize</key>
+			<string>{300, 300}</string>
+		</dict>
+		<key>slimy-menu-3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{128, 2}, {124, 210}}</string>
+			<key>offset</key>
+			<string>{84, -1}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{300, 300}</string>
+			<key>sourceSize</key>
+			<string>{300, 300}</string>
+		</dict>
+		<key>slimy-menu-4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{254, 2}, {124, 210}}</string>
+			<key>offset</key>
+			<string>{84, -1}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{300, 300}</string>
+			<key>sourceSize</key>
+			<string>{300, 300}</string>
+		</dict>
+		<key>slimy-menu-5.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2, 2}, {124, 210}}</string>
+			<key>offset</key>
+			<string>{84, -1}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{300, 300}</string>
+			<key>sourceSize</key>
+			<string>{300, 300}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>size</key>
+		<string>{1024, 512}</string>
+	</dict>
+</dict>
+</plist>

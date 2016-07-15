@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/30/FATMAN/trunk/Resources/sounds
+END
+laught.wav
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/30/FATMAN/trunk/Resources/sounds/laught.wav
+END
+enemy-touched.wav
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/30/FATMAN/trunk/Resources/sounds/enemy-touched.wav
+END
+hero-touched.wav
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/30/FATMAN/trunk/Resources/sounds/hero-touched.wav
+END
+1-level.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/30/FATMAN/trunk/Resources/sounds/1-level.mp3
+END
+glass.wav
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/30/FATMAN/trunk/Resources/sounds/glass.wav
+END
+button.wav
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/30/FATMAN/trunk/Resources/sounds/button.wav
+END
+jump.wav
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/30/FATMAN/trunk/Resources/sounds/jump.wav
+END
+pickup.wav
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/30/FATMAN/trunk/Resources/sounds/pickup.wav
+END
+explosion.wav
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/30/FATMAN/trunk/Resources/sounds/explosion.wav
+END
+wind.wav
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/30/FATMAN/trunk/Resources/sounds/wind.wav
+END
+bonusreached.wav
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/30/FATMAN/trunk/Resources/sounds/bonusreached.wav
+END

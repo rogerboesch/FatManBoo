@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="200" height="10" tilewidth="64" tileheight="64">
+ <tileset firstgid="1" name="tile 0" tilewidth="64" tileheight="64">
+  <image source="tiles-chapter-1.png"/>
+ </tileset>
+ <layer name="Landscape" width="200" height="10">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA+3WPQ6AIAyAUQh6MN0c9f6HERIHQoDyE6vD95LGwQqkVcQYAAAAAAAAfMH6cI25i481ukrCuJuPfWxpgDqrPN/p41Ke8w3HEzmt+8XMM7X8Uk+lXrto3NY9siZdY8+7FufOrqVUK6nmI30c1fuvkaQ1a+l97Z72PgHM4BwG5IVv4+/nsBvmoq14QB8AAA==
+  </data>
+ </layer>
+ <layer name="Wood" width="200" height="10">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA+2WSw6EIBBE+2rOyt8B1JkDmMncf60ksvBv95RgtF5SMcaiaAQCIoSQNXLqUsqoS4kQQgghBE0t8zvHO2pFYXF33kaeNeYnsrTOQ+gO6+obuwBiRrPu77BWY+D2x9o/bTa+WXz/ttP497yILFQfBSgL5Tlz/otBpYxJA9V7NM/Xt3V+HD1brGeQtp3Gv+dFZIXoQ5OF8mi9lvn/TN4rQDZy/L4+7g97FveHPtPz6/XqlQzPFpCNHL+rrwP3VDdmQB8AAA==
+  </data>
+ </layer>
+</map>
